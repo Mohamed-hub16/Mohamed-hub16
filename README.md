@@ -2,7 +2,7 @@
 
 Je m'appelle Mohamed MESRI et je suis actuellement étudiant en 2ème année de BUT informatique. Depuis mes débuts dans ce domaine, ma passion pour l'informatique n'a cessé de croître. J'ai toujours été fasciné par les avancées technologiques et je suis particulièrement attiré par les domaines de l'intelligence artificielle (IA) et de la cybersécurité. Mon objectif professionnel est de poursuivre une carrière dans l'un de ces domaines, où je pourrai contribuer activement à l'innovation et à la sécurité de la technologie de demain.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](linkedin.com/in/mohamed-mesri-63a16725a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohamed-mesri-63a16725a)
 ## 💻 Langages de programmation utilisés
 ![Java](https://img.shields.io/badge/Java-70%25-brightgreen?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-50%25-yellow?style=for-the-badge&logo=javascript)
