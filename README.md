@@ -23,7 +23,10 @@ Je m'appelle Mohamed MESRI et je suis actuellement étudiant en 2ème année de 
 
 ## 🚀 Mes projets
 
-- [Projet 1](lien_vers_projet_1) : Description succincte du projet 1.
+- Jeu du Verger
+  
+J'ai développé le jeux de sociéte : le Verger avec les langages de programmation Java/JavaFX. C'est un jeux collectif qui se joue à 3 joueurs maximum, qui a pour but de cuillir les fruits du pommier, cerisier, prunier et poirier de remplir 4 pannier avec avant que le puzzle du corbeaux ne soit complété. Pour se faire les joueurs doivent lancé le dé chacun leur tour 3 cas possible -> couleur : prendre le fruit de la couleur. panier : prendre deux fruit aux choix. corbeau : mettre une pièce du puzzle.
+
 - [Projet 2](lien_vers_projet_2) : Description succincte du projet 2.
 - [Projet 3](lien_vers_projet_3) : Description succincte du projet 3.
 
