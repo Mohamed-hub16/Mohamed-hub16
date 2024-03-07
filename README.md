@@ -33,10 +33,10 @@ J'ai développé le jeux de sociéte : le Verger avec les langages de programmat
 - Jeu Python : (Jeux des devinnettes / allumettes / morpion / puissance 4)
 
   <div display="inline-block" >
-     <img  class="image" src="python.png" alt="Logo" width="400"/>
-     <img  class="image" src="allumettes.png" alt="Logo" width="400"/>
-    <img  class="image" src="morpion.png" alt="Logo" width="400"/>
-    <img  class="image" src="puissance4.png" alt="Logo" width="400"/>
+     <img  class="image" src="python.png" alt="Logo" width="225" />
+     <img  class="image" src="allumettes.png" alt="Logo" width="225" height="150"/>
+    <img  class="image" src="morpion.png" alt="Logo" width="225" />
+    <img  class="image" src="puissance4.png" alt="Logo" width="225" />
   </div>
 
 
