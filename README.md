@@ -32,7 +32,13 @@ J'ai développé le jeux de sociéte : le Verger avec les langages de programmat
 
 - Jeu Python : (Jeux des devinnettes / allumettes / morpion / puissance 4)
 
-  J'ai dévéloppé les jeux de devinettes, allumettes, morpion et puissance 4 en langage de programmation python. Cette application contient un menu offrant la possibilité de jouer joueur vs joueur, joueur vs BOT, BOT vs BOT. Le scores des joueurs sera enregistré dans un fichier qui enregistrera chaque partie.
+  
+
+Cette application regroupe 4 jeux fondamentaux dans le monde à savoir, le jeu des 
+devinettes, de l’allumette, du morpion et du puissance 4 offrant la possibilité de jouer joueur vs joueur, joueur vs BOT, BOT vs BOT. De plus, cette application gère 
+les scores des joueurs qui ont remporté au moins une partie dans un jeu avec un 
+classement par jeux ou par score total. Un joueur peut se reconnecter avec le même 
+pseudo pour récupérer ses scores. On peut donc considérer notre application comme un 
   
 - [Projet 3](lien_vers_projet_3) : Description succincte du projet 3.
 
