@@ -18,8 +18,9 @@ Je m'appelle Mohamed MESRI et je suis actuellement étudiant en 2ème année de 
 ## 🌟 Mes qualités
 
 - Autonome et capable de travailler efficacement en équipe
-- Forte capacité d'analyse et de résolution de problèmes
+- Capacité d'analyse et de résolution de problèmes
 - Orienté vers les résultats avec une attention aux détails
+- Déterminé et rigoureux
 
 ## 🚀 Mes projets
 
