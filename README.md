@@ -33,10 +33,10 @@ J'ai développé le jeux de sociéte : le Verger avec les langages de programmat
 - Jeu Python : (Jeux des devinnettes / allumettes / morpion / puissance 4)
 
   <div display="inline-block" >
-     <img  class="image" src="python.png" alt="Logo" width="225" />
-     <img  class="image" src="allumettes.png" alt="Logo" width="225" height="150"/>
-    <img  class="image" src="morpion.png" alt="Logo" width="225" />
-    <img  class="image" src="puissance4.png" alt="Logo" width="225" />
+     <img  class="image" src="python.png" alt="Logo" width="215" />
+     <img  class="image" src="allumettes.png" alt="Logo" width="215"/>
+    <img  class="image" src="morpion.png" alt="Logo" width="215" />
+    <img  class="image" src="puissance4.png" alt="Logo" width="215" />
   </div>
 
 
@@ -49,7 +49,10 @@ les scores des joueurs qui ont remporté au moins une partie dans un jeu avec un
 classement par jeux ou par score total. Un joueur peut se reconnecter avec le même 
 pseudo pour récupérer ses scores. On peut donc considérer notre application comme un 
   
-- [Projet 3](lien_vers_projet_3) : Description succincte du projet 3.
+- Application d'analyse/conception de transformation de matière plastique
+
+<img  class="image" src="legrand.png" alt="Logo" width="800" />
+  
 
 ## 🌐 Centres d'intérêt
 
