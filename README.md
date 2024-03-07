@@ -30,7 +30,10 @@ Je m'appelle Mohamed MESRI et je suis actuellement étudiant en 2ème année de 
   
 J'ai développé le jeux de sociéte : le Verger avec les langages de programmation Java/JavaFX. C'est un jeux collectif qui se joue à 3 joueurs maximum, qui a pour but de cuillir les fruits du pommier, cerisier, prunier et poirier de remplir 4 pannier avec avant que le puzzle du corbeaux ne soit complété. Pour se faire les joueurs doivent lancé le dé chacun leur tour 3 cas possible -> couleur : prendre le fruit de la couleur. panier : prendre deux fruit aux choix. corbeau : mettre une pièce du puzzle.
 
-- [Projet 2](lien_vers_projet_2) : Description succincte du projet 2.
+- Jeu Python : (Jeux des devinnettes / allumettes / morpion / puissance 4)
+
+  J'ai dévéloppé les jeux de devinettes, allumettes, morpion et puissance 4 en langage de programmation python. Cette application contient un menu offrant la possibilité de jouer joueur vs joueur, joueur vs BOT, BOT vs BOT. Le scores des joueurs sera enregistré dans un fichier qui enregistrera chaque partie.
+  
 - [Projet 3](lien_vers_projet_3) : Description succincte du projet 3.
 
 ## 🌐 Centres d'intérêt
