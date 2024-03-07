@@ -15,13 +15,13 @@ Je m'appelle Mohamed MESRI et je suis actuellement étudiant en 2ème année de 
 ![Python](https://img.shields.io/badge/Python-70%25-blue?style=for-the-badge&logo=python)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-20%25-purple?style=for-the-badge&logo=bootstrap)
 
+
 ## 🌟 Mes qualités
 
 - Autonome et capable de travailler efficacement en équipe
 - Capacité d'analyse et de résolution de problèmes
 - Orienté vers les résultats avec une attention aux détails
 - Déterminé et rigoureux
-
 ## 🚀 Mes projets
 
 - Jeu du Verger
@@ -32,6 +32,10 @@ J'ai développé le jeux de sociéte : le Verger avec les langages de programmat
 
 - Jeu Python : (Jeux des devinnettes / allumettes / morpion / puissance 4)
 
+ <img  class="image" src="python.png" alt="Logo" width="400"/>
+  <img  class="image" src="alluettes.png" alt="Logo" width="400"/>
+   <img  class="image" src="morpion.png" alt="Logo" width="400"/>
+    <img  class="image" src="puisscance4.png" alt="Logo" width="400"/>
   
 
 Cette application regroupe 4 jeux fondamentaux dans le monde à savoir, le jeu des 
