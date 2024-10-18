@@ -10,9 +10,10 @@ Je suis actuellement étudiant en **3ème année de BUT Informatique**. Depuis m
 [![MonSiteWeb](https://img.shields.io/badge/mon%20site%20web-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://mohamedmesri.netlify.app)
 
 ## 💻 ***Languages et outils***
+
 ***Dévelopement WEB***
 <p align="center">
-<img width="560px"  src="https://skillicons.dev/icons?i=js,html,css,sass,react,nodejs&perline=13" alt="skillset"/>
+  <img width="560px"  src="https://skillicons.dev/icons?i=js,html,css,sass,react,nodejs&perline=13" alt="skillset"/>
 </p>
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
