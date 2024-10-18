@@ -25,11 +25,16 @@ Je suis actuellement étudiant en **3ème année de BUT Informatique**. Depuis m
 <p>
   <img width="160px"  src="https://skillicons.dev/icons?i=python,java&perline=13" alt="skillset"/>
 </p>
+
 ***BDD***
 <p>
   <img width="160px"  src="https://skillicons.dev/icons?i=mysql,mongodb&perline=13" alt="skillset"/>
 </p>
+
 ***Système Multi-Agent***
+<p>
+  <img width="160px"  src="https://skillicons.dev/icons?i=gama&perline=13" alt="skillset"/>
+</p>
 
 ***Réseau***
 
