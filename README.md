@@ -6,7 +6,7 @@
 
 Je suis actuellement étudiant en **3ème année de BUT Informatique**. Depuis mes débuts dans le domaine, ma passion pour l'informatique n'a cessé de croître. Je suis particulièrement fasciné par les avancées technologiques, et c'est dans le secteur de la **cybersécurité** que je souhaite approfondir mes connaissances et construire ma carrière. Mon objectif est de devenir un **expert** dans ce domaine dynamique et en constante évolution.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-mesri-63a16725a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-mesri-63a16725a)
 <a href="https://mohamedmesri.netlify.app" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/mon%20site%20web-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Mon site web Badge">
 </a>
