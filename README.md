@@ -12,20 +12,21 @@ Je suis actuellement étudiant en **3ème année de BUT Informatique**. Depuis m
 ## 💻 ***Languages et outils***
 
 ***Dévelopement WEB***
-<p align="center">
+<p>
   <img width="560px"  src="https://skillicons.dev/icons?i=js,html,css,sass,react,nodejs,php&perline=13" alt="skillset"/>
 </p>
 
 ***Dévelopement Mobile***
-<p align="center">
+<p>
   <img width="160px"  src="https://skillicons.dev/icons?i=dotnet,kotlin&perline=13" alt="skillset"/>
 </p>
+
 ***Dévelopement d'Application***
-<p align="center">
+<p>
   <img width="160px"  src="https://skillicons.dev/icons?i=python,java&perline=13" alt="skillset"/>
 </p>
 ***BDD***
-<p align="center">
+<p>
   <img width="560px"  src="https://skillicons.dev/icons?i=MySql,mangodb&perline=13" alt="skillset"/>
 </p>
 ***Système Multi-Agent***
