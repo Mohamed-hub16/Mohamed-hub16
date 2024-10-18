@@ -8,9 +8,6 @@ Je suis actuellement étudiant en **3ème année de BUT Informatique**. Depuis m
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-mesri-63a16725a)
 [![MonSiteWeb](https://img.shields.io/badge/mon%20site%20web-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://mohamedmesri.netlify.app)
-<a href="https://mohamedmesri.netlify.app" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/mon%20site%20web-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Mon site web Badge">
-</a>
 
 ## 💻 Langages de programmation utilisés
 ![Java](https://img.shields.io/badge/Java-70%25-brightgreen?style=for-the-badge&logo=java)
