@@ -76,5 +76,5 @@ You can click the Preview link to take a look at your changes.
 --->
 <!--Footer--> 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=75,75,30&height=125&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=75,75,15&height=125&section=footer"/>
 </p>
