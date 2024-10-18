@@ -1,6 +1,6 @@
 ## :superhero_man: Qui suis-je
 
-Je m'appelle Mohamed MESRI et je suis actuellement étudiant en 2ème année de BUT informatique. Depuis mes débuts dans ce domaine, ma passion pour l'informatique n'a cessé de croître. J'ai toujours été fasciné par les avancées technologiques et je suis particulièrement attiré par les domaines de l'intelligence artificielle (IA) et de la cybersécurité. Mon objectif professionnel est de poursuivre une carrière dans l'un de ces domaines, où je pourrai contribuer activement à l'innovation et à la sécurité de la technologie de demain.
+Bonjour ! Je m'appelle Mohamed Mesri et je suis actuellement étudiant en 3ème année de BUT Informatique. Depuis mes débuts dans le domaine, ma passion pour l'informatique n'a cessé de croître. Je suis particulièrement fasciné par les avancées technologiques, et c'est dans le secteur de la cybersécurité que je souhaite approfondir mes connaissances et construire ma carrière. Mon objectif est de devenir un expert dans ce domaine dynamique et en constante évolution.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohamed-mesri-63a16725a)
 ## 💻 Langages de programmation utilisés
