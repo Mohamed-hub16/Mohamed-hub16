@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=88&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=orange&height=88&section=header"/>
 </p>
 
 ## 👨‍💻 À propos de moi
@@ -76,5 +76,5 @@ You can click the Preview link to take a look at your changes.
 --->
 <!--Footer--> 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=88&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=orange&height=88&section=footer"/>
 </p>
