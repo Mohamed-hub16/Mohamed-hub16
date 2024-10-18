@@ -33,7 +33,7 @@ Je suis actuellement étudiant en **3ème année de BUT Informatique**. Depuis m
 
 ***Système Multi-Agent***
 <p>
-  <img width="160px"  src="https://skillicons.dev/icons?i=gama&perline=13" alt="skillset"/>
+  <img width="160px"  src="Img_outil_SMA.png" alt="skillset"/>
 </p>
 
 ***Réseau***
