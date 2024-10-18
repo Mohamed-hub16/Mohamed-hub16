@@ -18,7 +18,7 @@ Je suis actuellement étudiant en **3ème année de BUT Informatique**. Depuis m
 
 ***Dévelopement Mobile***
 <p align="center">
-  <img width="560px"  src="https://skillicons.dev/icons?i=dotnet,kotlin&perline=50" alt="skillset"/>
+  <img width="380px"  src="https://skillicons.dev/icons?i=dotnet,kotlin&perline=13" alt="skillset"/>
 </p>
 ***Dévelopement d'Application***
 <p align="center">
