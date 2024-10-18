@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=75,75,30&height=125&section=header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=75,75,100&height=125&section=header"/>
 </p>
 
 ## 👨‍💻 À propos de moi
