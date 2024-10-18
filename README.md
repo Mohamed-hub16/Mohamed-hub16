@@ -13,20 +13,21 @@ Je suis actuellement étudiant en **3ème année de BUT Informatique**. Depuis m
 
 ***Dévelopement WEB***
 <p align="center">
-  <img width="560px"  src="https://skillicons.dev/icons?i=js,html,css,sass,react,nodejs&perline=13" alt="skillset"/>
+  <img width="560px"  src="https://skillicons.dev/icons?i=js,html,css,sass,react,nodejs,php&perline=13" alt="skillset"/>
 </p>
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 
 ***Dévelopement Mobile***
-
+<p align="center">
+  <img width="560px"  src="https://skillicons.dev/icons?i=netmaui,kotlin&perline=13" alt="skillset"/>
+</p>
 ***Dévelopement d'Application***
-
+<p align="center">
+  <img width="560px"  src="https://skillicons.dev/icons?i=python,java&perline=13" alt="skillset"/>
+</p>
 ***BDD***
-
+<p align="center">
+  <img width="560px"  src="https://skillicons.dev/icons?i=MySql,mangodb&perline=13" alt="skillset"/>
+</p>
 ***Système Multi-Agent***
 
 ***Réseau***
