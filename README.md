@@ -12,9 +12,9 @@ Je suis actuellement étudiant en **3ème année de BUT Informatique**. Depuis m
 
 ## 💻 ***Languages et outils***
 
-<table>
+<table style="width:100%;">
   <tr>
-    <td>
+    <td style="vertical-align: top; width:50%;">
       <h3><i>Dévelopement WEB</i></h3>
       <p>
         <img width="440px"  src="https://skillicons.dev/icons?i=js,html,css,sass,react,nodejs,php&perline=13" alt="skillset"/>
@@ -41,7 +41,7 @@ Je suis actuellement étudiant en **3ème année de BUT Informatique**. Depuis m
         <img width="190px"  src="Img_outil_Reseau_Virtualisation.png" alt="skillset"/>
       </p>
     </td>
-    <td>
+    <td style="vertical-align: top; width:50%;">
       <h3><i>IDE</i></h3>
       <p>
         <img width="125px"  src="https://skillicons.dev/icons?i=vscode,phpstorm&perline=13" alt="skillset"/>
