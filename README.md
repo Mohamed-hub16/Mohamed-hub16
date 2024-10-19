@@ -50,7 +50,6 @@ Je suis actuellement étudiant en **3ème année de BUT Informatique**. Depuis m
       <p>
         <img width="188px"  src="https://skillicons.dev/icons?i=git,github,gitlab&perline=13" alt="skillset"/>
       </p>
-      <br><br><br><br><br>
     </td>
   </tr>
 </table>
