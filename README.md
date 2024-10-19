@@ -58,10 +58,39 @@ Je suis actuellement étudiant en **3ème année de BUT Informatique**. Depuis m
 
 ### ***Jeu du Verger***
 
-  <img  class="image" src="image.png" alt="Logo" width="800"/>
+<img  class="image" src="image.png" alt="Logo" width="800"/>
   
-J'ai développé le jeux de sociéte : le Verger avec les langages de programmation Java/JavaFX. C'est un jeux collectif qui se joue à 3 joueurs maximum, qui a pour but de cuillir les fruits du pommier, cerisier, prunier et poirier de remplir 4 pannier avec avant que le puzzle du corbeaux ne soit complété. Pour se faire les joueurs doivent lancé le dé chacun leur tour 3 cas possible -> couleur : prendre le fruit de la couleur. panier : prendre deux fruit aux choix. corbeau : mettre une pièce du puzzle.
+Aperçu
+"Le Verger" est une adaptation numérique du célèbre jeu de société coopératif pour enfants, développée en Java avec JavaFX. Cette version interactive conserve l'essence du jeu original tout en offrant une expérience ludique sur plateforme digitale.
+Caractéristiques principales
 
+Joueurs : 1 à 3 joueurs
+Objectif : Récolter tous les fruits avant que le corbeau ne complète son puzzle
+Langages : Java, JavaFX
+Type : Jeu de société coopératif
+
+Gameplay
+Les joueurs collaborent pour récolter les fruits de quatre arbres différents (pommier, cerisier, prunier, poirier) et remplir leurs paniers avant que le corbeau n'achève son puzzle. À chaque tour, les joueurs lancent un dé qui détermine leur action :
+
+Couleur : Récolter un fruit de l'arbre correspondant
+Panier : Choisir et récolter deux fruits de n'importe quel arbre
+Corbeau : Ajouter une pièce au puzzle du corbeau
+
+Défis techniques
+
+Implémentation d'une interface utilisateur intuitive avec JavaFX
+Gestion des règles du jeu et de la logique de tour par tour
+Création d'un système de jeu coopératif fluide
+
+Compétences démontrées
+
+Programmation orientée objet en Java
+Développement d'interfaces graphiques avec JavaFX
+Conception et implémentation de logique de jeu
+Adaptation d'un concept de jeu physique à un environnement numérique
+
+
+Ce projet démontre ma capacité à transformer un jeu de société classique en une expérience numérique engageante, tout en respectant les mécaniques de jeu originales et en créant une interface utilisateur attrayante.
 
   
 - Application d'analyse/conception de transformation de matière plastique
