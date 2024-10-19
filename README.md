@@ -69,47 +69,20 @@ Je suis actuellement étudiant en **3ème année de BUT Informatique**. Depuis m
   
 J'ai développé le jeux de sociéte : le Verger avec les langages de programmation Java/JavaFX. C'est un jeux collectif qui se joue à 3 joueurs maximum, qui a pour but de cuillir les fruits du pommier, cerisier, prunier et poirier de remplir 4 pannier avec avant que le puzzle du corbeaux ne soit complété. Pour se faire les joueurs doivent lancé le dé chacun leur tour 3 cas possible -> couleur : prendre le fruit de la couleur. panier : prendre deux fruit aux choix. corbeau : mettre une pièce du puzzle.
 
-- Jeu Python : (Jeux des devinnettes / allumettes / morpion / puissance 4)
 
-  <div display="inline-block" >
-     <img  class="image" src="python.png" alt="Logo" width="215" />
-     <img  class="image" src="allumettes.png" alt="Logo" width="215"/>
-    <img  class="image" src="morpion.png" alt="Logo" width="215" />
-    <img  class="image" src="puissance4.png" alt="Logo" width="215" />
-  </div>
-
-
-   
-  
-
-Cette application regroupe 4 jeux fondamentaux dans le monde à savoir, le jeu des 
-devinettes, de l’allumette, du morpion et du puissance 4 offrant la possibilité de jouer joueur vs joueur, joueur vs BOT, BOT vs BOT. De plus, cette application gère 
-les scores des joueurs qui ont remporté au moins une partie dans un jeu avec un 
-classement par jeux ou par score total. Un joueur peut se reconnecter avec le même 
-pseudo pour récupérer ses scores. On peut donc considérer notre application comme un 
   
 - Application d'analyse/conception de transformation de matière plastique
 
 <img  class="image" src="legrand.png" alt="Logo" width="800" />
   
 
-## 🌐 Centres d'intérêt
-
-En dehors de la programmation, mes centres d'intérêt incluent :
-
-- La lecture
-- La randonnée
-- La musique
-- Les jeux de société
-
-N'hésitez pas à me contacter si vous avez des questions ou si vous souhaitez collaborer sur un projet !
-
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=75,75,15&height=105&section=footer"/>
+</p>
 
 <!---
 Mohamed-hub16/Mohamed-hub16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 <!--Footer--> 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=75,75,15&height=105&section=footer"/>
-</p>
+
