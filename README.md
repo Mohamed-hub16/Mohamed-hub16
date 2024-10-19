@@ -54,13 +54,6 @@ Je suis actuellement étudiant en **3ème année de BUT Informatique**. Depuis m
   </tr>
 </table>
 
-
-## 🌟 Mes qualités
-
-- Autonome et capable de travailler efficacement en équipe
-- Capacité d'analyse et de résolution de problèmes
-- Orienté vers les résultats avec une attention aux détails
-- Déterminé et rigoureux
 ## 🚀 Mes projets
 
 - Jeu du Verger
