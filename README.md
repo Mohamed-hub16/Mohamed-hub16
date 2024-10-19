@@ -58,18 +58,19 @@ Je suis actuellement étudiant en **3ème année de BUT Informatique**. Depuis m
 
 ### ***Jeu du Verger***
 
-<img  class="image" src="image.png" alt="Logo" width="800"/>
-  
-Aperçu
+Aperçu 
+<br>
 "Le Verger" est une adaptation numérique du célèbre jeu de société coopératif pour enfants, développée en Java avec JavaFX. Cette version interactive conserve l'essence du jeu original tout en offrant une expérience ludique sur plateforme digitale.
 Caractéristiques principales
-
-Joueurs : 1 à 3 joueurs
-Objectif : Récolter tous les fruits avant que le corbeau ne complète son puzzle
-Langages : Java, JavaFX
-Type : Jeu de société coopératif
+  
+Joueurs : 1 à 3 joueurs <br>
+Objectif : Récolter tous les fruits avant que le corbeau ne complète son puzzle <br>
+Langages : Java, JavaFX <br>
+Type : Jeu de société coopératif <br>
 
 Gameplay
+<br>
+<img  class="image" src="image.png" alt="Logo" width="800"/>
 Les joueurs collaborent pour récolter les fruits de quatre arbres différents (pommier, cerisier, prunier, poirier) et remplir leurs paniers avant que le corbeau n'achève son puzzle. À chaque tour, les joueurs lancent un dé qui détermine leur action :
 
 Couleur : Récolter un fruit de l'arbre correspondant
