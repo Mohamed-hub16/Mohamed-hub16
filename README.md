@@ -14,7 +14,7 @@ Je suis actuellement étudiant en **3ème année de BUT Informatique**. Depuis m
 
 ***Dévelopement WEB***
 <p>
-  <img width="560px"  src="https://skillicons.dev/icons?i=js,html,css,sass,react,nodejs,php&perline=13" alt="skillset"/>
+  <img width="500px"  src="https://skillicons.dev/icons?i=js,html,css,sass,react,nodejs,php&perline=13" alt="skillset"/>
 </p>
 
 ***Dévelopement Mobile***
