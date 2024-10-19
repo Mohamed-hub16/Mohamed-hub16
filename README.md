@@ -15,38 +15,38 @@ Je suis actuellement étudiant en **3ème année de BUT Informatique**. Depuis m
 <table>
   <tr>
     <td>
-      <h3><i>Dévelopement WEB</i></h3>
+      <h4><i>Dévelopement WEB</i></h4>
       <p>
         <img width="440px"  src="https://skillicons.dev/icons?i=js,html,css,sass,react,nodejs,php&perline=13" alt="skillset"/>
       </p>
-      <h3><i>Dévelopement Mobile</i></h3>
+      <h4><i>Dévelopement Mobile</i></h4>
       <p>
         <img width="125px"  src="https://skillicons.dev/icons?i=dotnet,kotlin&perline=13" alt="skillset"/>
       </p>
-      <h3><i>Dévelopement d'Application</i></h3>
+      <h4><i>Dévelopement d'Application</i></h4>
       <p>
         <img width="251px"  src="https://skillicons.dev/icons?i=python,java,rust,cpp&perline=13" alt="skillset"/>
       </p>
-      <h3><i>BDD</i></h3>
+      <h4><i>BDD</i></h4>
       <p>
         <img width="125px"  src="https://skillicons.dev/icons?i=mysql,mongodb&perline=13" alt="skillset"/>
       </p>
-      <h3><i>Système Multi-Agent</i></h3>
+      <h4><i>Système Multi-Agent</i></h4>
       <p>
         <img width="190px"  src="Img_outil_SMA.png" alt="skillset"/>
       </p>
-      <h3><i>Réseau / Virtualisation</i></h3>
+      <h4><i>Réseau / Virtualisation</i></h4>
       <p>
         <img width="180px"  src="https://skillicons.dev/icons?i=linux,debian,docker&perline=13" alt="skillset"/> 
         <img width="190px"  src="Img_outil_Reseau_Virtualisation.png" alt="skillset"/>
       </p>
     </td>
     <td>
-      <h3><i>IDE</i></h3>
+      <h4><i>IDE</i></h4>
       <p>
         <img width="125px"  src="https://skillicons.dev/icons?i=vscode,phpstorm&perline=13" alt="skillset"/>
       </p>
-      <h3><i>Gestionnaire de version</i></h3>
+      <h4><i>Gestionnaire de version</i></h4>
       <p>
         <img width="188px"  src="https://skillicons.dev/icons?i=git,github,gitlab&perline=13" alt="skillset"/>
       </p>
@@ -54,9 +54,9 @@ Je suis actuellement étudiant en **3ème année de BUT Informatique**. Depuis m
   </tr>
 </table>
 
-## 🚀 Mes projets
+## 🚀 ***Mes projets***
 
-- Jeu du Verger
+### ***Jeu du Verger***
 
   <img  class="image" src="image.png" alt="Logo" width="800"/>
   
