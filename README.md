@@ -42,8 +42,13 @@ Je suis actuellement étudiant en **3ème année de BUT Informatique**. Depuis m
       </p>
     </td>
     <td>
-      ### ***Outils***
+      <h3><i>IDE</i></h3>
       <p>
+        <img width="125px"  src="https://skillicons.dev/icons?i=vscode,phpsorm&perline=13" alt="skillset"/>
+      </p>
+      <h3><i>Gestionnaire de version</i></h3>
+      <p>
+        <img width="125px"  src="https://skillicons.dev/icons?i=git,github,gitlab,gitea&perline=13" alt="skillset"/>
       </p>
     </td>
   </tr>
