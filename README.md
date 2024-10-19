@@ -35,18 +35,15 @@ Je suis actuellement étudiant en **3ème année de BUT Informatique**. Depuis m
       <p>
         <img width="190px"  src="Img_outil_SMA.png" alt="skillset"/>
       </p>
-      
       ### ***Réseau / Virtualisation***
       <p>
         <img width="180px"  src="https://skillicons.dev/icons?i=linux,debian,docker&perline=13" alt="skillset"/> 
         <img width="190px"  src="Img_outil_Reseau_Virtualisation.png" alt="skillset"/>
       </p>
     </td>
-    <!-- Colonne Outils -->
     <td>
       ### ***Outils***
       <p>
-        <!-- Ajoutez ici les outils supplémentaires -->
       </p>
     </td>
   </tr>
