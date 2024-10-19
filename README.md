@@ -12,37 +12,45 @@ Je suis actuellement étudiant en **3ème année de BUT Informatique**. Depuis m
 
 ## 💻 ***Languages et outils***
 
-***Dévelopement WEB***
-<p>
-  <img width="440px"  src="https://skillicons.dev/icons?i=js,html,css,sass,react,nodejs,php&perline=13" alt="skillset"/>
-</p>
+<table>
+  <tr>
+    <td>
+      ### ***Dévelopement WEB***
+      <p>
+        <img width="440px"  src="https://skillicons.dev/icons?i=js,html,css,sass,react,nodejs,php&perline=13" alt="skillset"/>
+      </p>
+      ### ***Dévelopement Mobile***
+      <p>
+        <img width="125px"  src="https://skillicons.dev/icons?i=dotnet,kotlin&perline=13" alt="skillset"/>
+      </p>
+      ### ***Dévelopement d'Application***
+      <p>
+        <img width="251px"  src="https://skillicons.dev/icons?i=python,java,rust,cpp&perline=13" alt="skillset"/>
+      </p>
+      ### ***BDD***
+      <p>
+        <img width="125px"  src="https://skillicons.dev/icons?i=mysql,mongodb&perline=13" alt="skillset"/>
+      </p>
+    </td>
+    <!-- Colonne Outils -->
+    <td>
+      ### ***Système Multi-Agent***
+      <p>
+        <img width="190px"  src="Img_outil_SMA.png" alt="skillset"/>
+      </p>
+      ### ***Réseau / Virtualisation***
+      <p>
+        <img width="180px"  src="https://skillicons.dev/icons?i=linux,debian,docker&perline=13" alt="skillset"/> 
+        <img width="190px"  src="Img_outil_Reseau_Virtualisation.png" alt="skillset"/>
+      </p>
+      ### ***Outils***
+      <p>
+        <!-- Ajoutez ici les outils supplémentaires -->
+      </p>
+    </td>
+  </tr>
+</table>
 
-***Dévelopement Mobile***
-<p>
-  <img width="125px"  src="https://skillicons.dev/icons?i=dotnet,kotlin&perline=13" alt="skillset"/>
-</p>
-
-***Dévelopement d'Application***
-<p>
-  <img width="251px"  src="https://skillicons.dev/icons?i=python,java,rust,cpp&perline=13" alt="skillset"/>
-</p>
-
-***BDD***
-<p>
-  <img width="125px"  src="https://skillicons.dev/icons?i=mysql,mongodb&perline=13" alt="skillset"/>
-</p>
-
-***Système Multi-Agent***
-<p>
-  <img width="190px"  src="Img_outil_SMA.png" alt="skillset"/>
-</p>
-
-***Réseau / Virtualisation***
-<p>
-  <img width="180px"  src="https://skillicons.dev/icons?i=linux,debian,docker&perline=13" alt="skillset"/> <img width="190px"  src="Img_outil_Reseau_Virtualisation.png" alt="skillset"/>
-</p>
-
-***Outils***
 
 ## 🌟 Mes qualités
 
