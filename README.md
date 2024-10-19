@@ -10,7 +10,7 @@ Je suis actuellement étudiant en **3ème année de BUT Informatique**. Depuis m
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-mesri-63a16725a)
 [![MonSiteWeb](https://img.shields.io/badge/mon%20site%20web-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://mohamedmesri.netlify.app)
 
-## 💻 ***Languages et outils***
+## 💻 ***Languages et outils utilisés***
 
 <table>
   <tr>
