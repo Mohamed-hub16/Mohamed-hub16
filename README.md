@@ -24,7 +24,7 @@ Je suis actuellement étudiant en **3ème année de BUT Informatique**. Depuis m
 
 ***Dévelopement d'Application***
 <p>
-  <img width="200px"  src="https://skillicons.dev/icons?i=python,java,rust,cpp&perline=13" alt="skillset"/>
+  <img width="251px"  src="https://skillicons.dev/icons?i=python,java,rust,cpp&perline=13" alt="skillset"/>
 </p>
 
 ***BDD***
