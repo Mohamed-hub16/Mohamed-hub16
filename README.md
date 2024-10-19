@@ -44,7 +44,7 @@ Je suis actuellement étudiant en **3ème année de BUT Informatique**. Depuis m
     <td>
       <h4><i>IDE</i></h4>
       <p>
-        <img width="125px"  src="https://skillicons.dev/icons?i=vscode,phpstorm&perline=13" alt="skillset"/>
+        <img width="188px"  src="https://skillicons.dev/icons?i=vscode,phpstorm,eclipse&perline=13" alt="skillset"/>
       </p>
       <h4><i>Gestionnaire de version</i></h4>
       <p>
