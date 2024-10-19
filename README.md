@@ -24,7 +24,7 @@ Je suis actuellement étudiant en **3ème année de BUT Informatique**. Depuis m
 
 ***Dévelopement d'Application***
 <p>
-  <img width="160px"  src="https://skillicons.dev/icons?i=python,java&perline=13" alt="skillset"/>
+  <img width="200px"  src="https://skillicons.dev/icons?i=python,java,rust,cpp&perline=13" alt="skillset"/>
 </p>
 
 ***BDD***
@@ -34,11 +34,15 @@ Je suis actuellement étudiant en **3ème année de BUT Informatique**. Depuis m
 
 ***Système Multi-Agent***
 <p>
-  <img width="160px"  src="Img_outil_SMA.png" alt="skillset"/>
+  <img width="190px"  src="Img_outil_SMA.png" alt="skillset"/>
 </p>
 
-***Réseau***
+***Réseau / Virtualisation***
+<p>
+  <img width="180px"  src="https://skillicons.dev/icons?i=linux,debian,docker&perline=13" alt="skillset"/> <img width="190px"  src="Img_outil_Reseau_Virtualisation.png" alt="skillset"/>
+</p>
 
+***Outils***
 
 ## 🌟 Mes qualités
 
