@@ -15,27 +15,27 @@ Je suis actuellement étudiant en **3ème année de BUT Informatique**. Depuis m
 <table>
   <tr>
     <td>
-      ### ***Dévelopement WEB***
+      <h3><i>Dévelopement WEB</i></h3>
       <p>
         <img width="440px"  src="https://skillicons.dev/icons?i=js,html,css,sass,react,nodejs,php&perline=13" alt="skillset"/>
       </p>
-      ### ***Dévelopement Mobile***
+      <h3><i>Dévelopement Mobile</i></h3>
       <p>
         <img width="125px"  src="https://skillicons.dev/icons?i=dotnet,kotlin&perline=13" alt="skillset"/>
       </p>
-      ### ***Dévelopement d'Application***
+      <h3><i>Dévelopement d'Application</i></h3>
       <p>
         <img width="251px"  src="https://skillicons.dev/icons?i=python,java,rust,cpp&perline=13" alt="skillset"/>
       </p>
-      ### ***BDD***
+      <h3><i>BDD</i></h3>
       <p>
         <img width="125px"  src="https://skillicons.dev/icons?i=mysql,mongodb&perline=13" alt="skillset"/>
       </p>
-      ### ***Système Multi-Agent***
+      <h3><i>Système Multi-Agent</i></h3>
       <p>
         <img width="190px"  src="Img_outil_SMA.png" alt="skillset"/>
       </p>
-      ### ***Réseau / Virtualisation***
+      <h3><i>Réseau / Virtualisation</i></h3>
       <p>
         <img width="180px"  src="https://skillicons.dev/icons?i=linux,debian,docker&perline=13" alt="skillset"/> 
         <img width="190px"  src="Img_outil_Reseau_Virtualisation.png" alt="skillset"/>
