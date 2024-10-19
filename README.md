@@ -19,7 +19,7 @@ Je suis actuellement étudiant en **3ème année de BUT Informatique**. Depuis m
 
 ***Dévelopement Mobile***
 <p>
-  <img width="160px"  src="https://skillicons.dev/icons?i=dotnet,kotlin&perline=13" alt="skillset"/>
+  <img width="125px"  src="https://skillicons.dev/icons?i=dotnet,kotlin&perline=13" alt="skillset"/>
 </p>
 
 ***Dévelopement d'Application***
@@ -29,7 +29,7 @@ Je suis actuellement étudiant en **3ème année de BUT Informatique**. Depuis m
 
 ***BDD***
 <p>
-  <img width="160px"  src="https://skillicons.dev/icons?i=mysql,mongodb&perline=13" alt="skillset"/>
+  <img width="125px"  src="https://skillicons.dev/icons?i=mysql,mongodb&perline=13" alt="skillset"/>
 </p>
 
 ***Système Multi-Agent***
