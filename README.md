@@ -163,6 +163,8 @@ Ce projet a été réalisé dans le cadre d'un stage de recherche à l'Universit
 Le projet s'inscrit dans un contexte de recherche scientifique sur la modélisation des épidémies, notamment face à des crises sanitaires récentes telles que le COVID-19. Le principal objectif était d’évaluer l’efficacité des stratégies de gestion pour limiter la propagation d’une épidémie tout en préservant autant que possible les libertés individuelles. <br>
 
 <img  class="image" src="ABMS-1.png" alt="Logo" width="100%" /><img  class="image" src="ABMS-2.png" alt="Logo" width="33%" /><img  class="image" src="ABMS-3.png" alt="Logo" width="33%" /><img  class="image" src="ABMS-4.png" alt="Logo" width="33%" />
+
+*Note : Les images ci-dessus présente l'interface de l'application web* <br>
 #### *Fonctionnalités Clés* <br>
 
 -*Modélisation multi-agents basée sur le modèle SIR* (Susceptible, Infecté, Retiré) pour simuler la propagation des infections dans un environnement continu. <br>
