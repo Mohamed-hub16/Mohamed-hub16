@@ -53,7 +53,7 @@ Je suis actuellement étudiant en **3ème année de BUT Informatique**. Depuis m
       <h4><i>Gestion de Projet</i></h4>
       <p>
         <img width="62px"  src="https://skillicons.dev/icons?i=figma&perline=13" alt="skillset"/>
-        <img width="190px"  src="Img_outil_Reseau_Gestion_De_Projet.png" alt="skillset"/>
+        <img width="190px"  src="Img_outil_Reseau_Gestion_Projet.png" alt="skillset"/>
       </p>
     </td>
   </tr>
