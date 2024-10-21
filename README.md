@@ -100,8 +100,23 @@ Ce projet démontre ma capacité à transformer un jeu de société classique en
 
 ## ***Application d'analyse/conception de transformation de matière plastique : LeGrand***
 
+Ce projet a été réalisé dans le cadre d'une SAE (Situation d'Apprentissage et d'Évaluation) pour l'entreprise Legrand, leader mondial des infrastructures électriques et numériques du bâtiment. L'objectif était de développer une application web permettant de visualiser et d'analyser les données de production, notamment celles liées au processus de moulage par injection plastique.
+
+#### *Confidentialité des Données*
 <img  class="image" src="legrand.png" alt="Logo" width="100%" />
   
+*Note : L'image ci-dessus présente l'interface de l'application avec certaines valeurs floutées pour des raisons de confidentialité.* <br>
+
+Ce projet a été réalisé en collaboration avec Legrand, une entreprise leader dans son domaine. En tant qu'équipe de développement, nous étions soumis à une charte informatique stricte qui garantissait la protection des données sensibles de l'entreprise.
+
+<br>*Conformément à nos engagements :*
+- Les valeurs spécifiques affichées dans l'application ont été floutées dans les captures d'écran partagées publiquement. <br>
+- À la fin du projet, nous avons supprimé toutes les copies de la base de données fournies par Legrand. <br>
+- Aucune donnée réelle ou sensible n'est stockée ou partagée dans ce dépôt GitHub. <br>
+
+Cette approche reflète notre engagement envers la sécurité des données et le respect des accords de confidentialité, tout en permettant de présenter le design et les fonctionnalités de l'application développée.
+
+
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=75,75,15&height=105&section=footer"/>
