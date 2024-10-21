@@ -201,10 +201,10 @@ Le projet s'inscrit dans un contexte de recherche scientifique sur la modélisat
 
 #### *Challenges Relevés* <br>
 
--*Optimisation des performances* : La gestion d'une grande quantité d'agents (jusqu'à 15 000) a nécessité une optimisation du code pour garantir des simulations fluides.
--*Adaptation du modèle* : Intégrer des zones dynamiques en utilisant des algorithmes de clustering pour cibler précisément les foyers infectieux, tout en conservant une approche réaliste.
--*Visualisation en temps réel* : Créer une visualisation dynamique qui soit à la fois performante et informative, en Python et JavaScript.
--*Gestion des états d’urgence*: Développement d’un système intelligent de contrôle d’urgence activant ou désactivant des stratégies en fonction de seuils prédéfinis.
+-*Optimisation des performances* : La gestion d'une grande quantité d'agents (jusqu'à 15 000) a nécessité une optimisation du code pour garantir des simulations fluides. <br>
+-*Adaptation du modèle* : Intégrer des zones dynamiques en utilisant des algorithmes de clustering pour cibler précisément les foyers infectieux, tout en conservant une approche réaliste. <br> 
+-*Visualisation en temps réel* : Créer une visualisation dynamique qui soit à la fois performante et informative, en Python et JavaScript. <br>
+-*Gestion des états d’urgence*: Développement d’un système intelligent de contrôle d’urgence activant ou désactivant des stratégies en fonction de seuils prédéfinis. <br>
 
 #### *Perspectives* <br>
 
