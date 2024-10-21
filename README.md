@@ -156,6 +156,7 @@ Ce projet a le potentiel d'être adapté et intégré dans les processus de prod
 
 ## ***SIMULATION MULTI-AGENTS DE STRATÉGIES DE GESTION DE LA PROPAGATION DES ÉPIDÉMIES***
 
+![Visualisation](ABMS_2.gif)
 ![Application Web](ABMS_1.gif)
 
 <p align="center">
