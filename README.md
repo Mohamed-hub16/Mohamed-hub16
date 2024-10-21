@@ -58,9 +58,8 @@ Je suis actuellement étudiant en **3ème année de BUT Informatique**. Depuis m
 
 ### ***Jeu du Verger***
 
-Aperçu 
 <br>
-"Le Verger" est une adaptation numérique du célèbre jeu de société coopératif pour enfants, développée en Java avec JavaFX. Cette version interactive conserve l'essence du jeu original tout en offrant une expérience ludique sur plateforme digitale.
+Le jeu du Verger est une adaptation numérique du célèbre jeu de société coopératif pour enfants, développée en Java avec JavaFX. Cette version interactive conserve l'essence du jeu original tout en offrant une expérience ludique sur plateforme digitale.
 Caractéristiques principales
   
 Joueurs : 1 à 3 joueurs <br>
