@@ -218,8 +218,11 @@ Ce projet pourrait être étendu pour intégrer des données réelles provenant 
 [Simulation avec visualisation des agents](https://youtu.be/a1_w10Rs6ck)
 [Simulation sans visualisation des agents](https://youtu.be/RjGjI-VZxbo)
 
-# 📊 ***Statistiques GitHub***
-![Statistiques GitHub de Mohamed](https://github-readme-stats.vercel.app/api?username=Mohamed-hub16&show_icons=true&theme=radical)
+# 🔐 ***Cybersécurité : Initiation et Objectifs***
+
+En tant qu'étudiant en informatique passionné par la cybersécurité, je consacre une partie de mon temps à développer mes compétences dans ce domaine. Mon objectif est de devenir un expert en cybersécurité, en commençant par les bases et en progressant vers des certifications et projets avancés. <br>
+
+Je suis actif sur TryHackMe, une plateforme d'apprentissage pratique en cybersécurité où je m'entraîne sur des machines virtuelles pour renforcer mes compétences. Vous pouvez suivre mes progrès ici :
 
 # 🌟 ***Compétences en Soft Skills***
 - **Travail d'équipe** : Capacité à collaborer efficacement au sein d'une équipe.
