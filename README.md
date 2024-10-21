@@ -116,7 +116,43 @@ Ce projet a été réalisé en collaboration avec Legrand, une entreprise leader
 
 Cette approche reflète notre engagement envers la sécurité des données et le respect des accords de confidentialité, tout en permettant de présenter le design et les fonctionnalités de l'application développée.
 
+#### *Fonctionnalités Principales* <br>
+- Visualisation des données de production en temps réel <br>
+- Analyse des taux de recyclage des matières plastiques <br>
+- Vérification des gammes de moulages <br>
+- Génération de statistiques d'utilisation des matières <br>
+- Filtrage des données par site, CDA (Centre d'Analyse) et groupe de machines <br>
+- Export des données au format CSV <br>
 
+#### *Technologies Utilisées* <br>
+- Frontend : React.js <br>
+- Backend : Node.js <br>
+- Base de données : SQL Server (gérée via Azure Data Studio) <br>
+- Styles : SASS <br>
+- Gestion de versions : Git <br>
+- Tests : Jest (97% de couverture) <br>
+
+#### *Méthodologie*
+- Conception UX/UI avec Figma
+- Gestion de projet agile avec Trello
+- Développement itératif avec feedback régulier du client
+
+#### *Compétences Développées*
+- Travail en équipe sur un projet d'envergure
+- Apprentissage autonome de nouvelles technologies (React, SASS)
+- Conception d'interfaces utilisateur ergonomiques
+- Gestion de projet et organisation du travail
+- Connexion et manipulation de bases de données
+- Mise en place de tests unitaires
+
+#### *Challenges Relevés*
+- Adaptation aux exigences d'une grande entreprise
+- Gestion de données complexes et volumineuses
+- Conception d'une interface utilisateur intuitive pour des données techniques
+- Collaboration efficace au sein d'une équipe de 5 développeurs
+
+#### *Perspectives*
+Ce projet a le potentiel d'être adapté et intégré dans les processus de production de Legrand, offrant ainsi une solution concrète pour l'optimisation de la gestion des ressources et l'amélioration de l'efficacité de la production.
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=75,75,15&height=105&section=footer"/>
