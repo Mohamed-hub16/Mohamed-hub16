@@ -70,8 +70,8 @@ Le jeu du Verger est une adaptation numérique du célèbre jeu de société coo
 #### *Gameplay*
 <br>
 <img  class="image" src="image.png" alt="Logo" width="800"/>
-Les joueurs collaborent pour récolter les fruits de quatre arbres différents (pommier, cerisier, prunier, poirier) et remplir leurs paniers avant que le corbeau n'achève son puzzle. À chaque tour, les joueurs lancent un dé qui détermine leur action : <br>
-
+Les joueurs collaborent pour récolter les fruits de quatre arbres différents (pommier, cerisier, prunier, poirier) et remplir leurs paniers avant que le corbeau n'achève son puzzle. À chaque tour, les joueurs lancent un dé qui détermine leur action : 
+<br>
 *Couleur* : Récolter un fruit de l'arbre correspondant <br>
 *Panier* : Choisir et récolter deux fruits de n'importe quel arbre <br>
 *Corbeau* : Ajouter une pièce au puzzle du corbeau <br>
