@@ -92,9 +92,8 @@ Adaptation d'un concept de jeu physique à un environnement numérique
 
 Ce projet démontre ma capacité à transformer un jeu de société classique en une expérience numérique engageante, tout en respectant les mécaniques de jeu originales et en créant une interface utilisateur attrayante.
 
-  
-- Application d'analyse/conception de transformation de matière plastique
 
+## ***Application d'analyse/conception de transformation de matière plastique : LeGrand***
 <img  class="image" src="legrand.png" alt="Logo" width="800" />
   
 
