@@ -156,7 +156,7 @@ Ce projet a le potentiel d'être adapté et intégré dans les processus de prod
 
 ## ***SIMULATION MULTI-AGENTS DE STRATÉGIES DE GESTION DE LA PROPAGATION DES ÉPIDÉMIES***
 
-[Regarder la vidéo de simulation de propagation d'épidémies](https://youtu.be/a1_w10Rs6ck)
+[Visualisation d'une simulation mutlti-agent avec une stratégie de gestion de cette épidémie en temps réel](https://youtu.be/a1_w10Rs6ck)
 
 
 <p align="center">
