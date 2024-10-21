@@ -70,19 +70,19 @@ Le jeu du Verger est une adaptation numérique du célèbre jeu de société coo
 #### *Gameplay*
 <br>
 <img  class="image" src="image.png" alt="Logo" width="800"/>
-Les joueurs collaborent pour récolter les fruits de quatre arbres différents (pommier, cerisier, prunier, poirier) et remplir leurs paniers avant que le corbeau n'achève son puzzle. À chaque tour, les joueurs lancent un dé qui détermine leur action :
+Les joueurs collaborent pour récolter les fruits de quatre arbres différents (pommier, cerisier, prunier, poirier) et remplir leurs paniers avant que le corbeau n'achève son puzzle. À chaque tour, les joueurs lancent un dé qui détermine leur action : <br>
 
-Couleur : Récolter un fruit de l'arbre correspondant
-Panier : Choisir et récolter deux fruits de n'importe quel arbre
-Corbeau : Ajouter une pièce au puzzle du corbeau
+*Couleur* : Récolter un fruit de l'arbre correspondant <br>
+*Panier* : Choisir et récolter deux fruits de n'importe quel arbre <br>
+*Corbeau* : Ajouter une pièce au puzzle du corbeau <br>
 
-Défis techniques
+#### *Défis techniques*
 
 Implémentation d'une interface utilisateur intuitive avec JavaFX
 Gestion des règles du jeu et de la logique de tour par tour
 Création d'un système de jeu coopératif fluide
 
-Compétences démontrées
+#### *Compétences démontrées*
 
 Programmation orientée objet en Java
 Développement d'interfaces graphiques avec JavaFX
