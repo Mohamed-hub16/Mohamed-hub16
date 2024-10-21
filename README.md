@@ -156,8 +156,61 @@ Ce projet a le potentiel d'être adapté et intégré dans les processus de prod
 
 ## ***SIMULATION MULTI-AGENTS DE STRATÉGIES DE GESTION DE LA PROPAGATION DES ÉPIDÉMIES***
 
-[Application-web-avec-visualisation-de-la-SMA](https://youtu.be/a1_w10Rs6ck)
-[Application-web-sans-visualisation-de-la-SMA](https://youtu.be/RjGjI-VZxbo)
+Ce projet a été réalisé dans le cadre d'un stage de recherche à l'Université de Craiova en collaboration avec le professeur Costin Bădică, expert en intelligence artificielle et systèmes multi-agents. L'objectif était de concevoir et de simuler diverses stratégies de gestion des épidémies à travers un modèle multi-agents (ABMS), en étudiant notamment l'impact de différentes mesures de contrôle (confinement, port du masque, etc.) sur la propagation d'une maladie infectieuse. <br>
+
+#### *Contexte et Objectifs* <br>
+
+Le projet s'inscrit dans un contexte de recherche scientifique sur la modélisation des épidémies, notamment face à des crises sanitaires récentes telles que le COVID-19. Le principal objectif était d’évaluer l’efficacité des stratégies de gestion pour limiter la propagation d’une épidémie tout en préservant autant que possible les libertés individuelles. <br>
+
+#### *Fonctionnalités Clés* <br>
+
+Modélisation multi-agents basée sur le modèle SIR (Susceptible, Infecté, Retiré) pour simuler la propagation des infections dans un environnement continu. <br>
+
+Stratégies de gestion de crise : <br>
+&nbsp;&nbsp;Quarantaine et confinement à travers la limitation des déplacements. <br>
+&nbsp;&nbsp;Création de zones statiques et dynamiques pour cibler les foyers d'infection. <br>
+&nbsp;&nbsp;Port du masque avec différentes configurations (port généralisé ou ciblé dans des zones). <br>
+Analyse des résultats avec des graphiques dynamiques montrant l'évolution de l'épidémie et l'impact des stratégies. <br>
+Application web interactive permettant la personnalisation des paramètres de simulation et l’observation en temps réel. <br>
+
+#### *Technologies Utilisées* <br>
+
+-*MESA* (Framework en Python pour la modélisation multi-agents) <br>
+-*Streamlit* (pour l'interface web interactive) <br>
+-*Scikit-learn* (utilisé pour l'algorithme de clustering K-Means dans la gestion des zones dynamiques) <br>
+-*JavaScript* (pour la visualisation des agents en temps réel) <br>
+-*Git* (pour la gestion de versions) <br>
+
+#### *Méthodologie* <br>
+
+-Approche itérative avec des ajustements réguliers suite aux résultats des simulations. <br>
+-Développement de la visualisation des agents en Python et JavaScript. <br>
+-Utilisation d'un algorithme de clustering pour les zones dynamiques, afin de cibler de manière précise les foyers d'infection et optimiser les mesures de contrôle. <br>
+
+#### *Compétences Développées* <br>
+
+-*Modélisation et simulation multi-agents* : Compréhension et mise en place du modèle SIR en utilisant le framework MESA. <br>
+-*Développement d'interfaces web interactives* : Utilisation de Streamlit pour intégrer une visualisation intuitive en temps réel des simulations. <br>
+-*Analyse de données* avec des algorithmes de clustering (K-means, K-means++) pour identifier les zones épidémiques dynamiques. <br>
+-*Gestion de projet en autonomie* : Utilisation d’outils de gestion comme Trello pour suivre l'avancement et organiser les tâches. <br>
+-*Visualisation* dynamique en temps réel avec des technologies web. <br>
+-*Communication scientifique* : Présentation des résultats et des analyses lors de réunions régulières avec mon maître de stage et d'autres chercheurs. <br>
+
+#### *Challenges Relevés* <br>
+
+-*Optimisation des performances* : La gestion d'une grande quantité d'agents (jusqu'à 15 000) a nécessité une optimisation du code pour garantir des simulations fluides.
+-*Adaptation du modèle* : Intégrer des zones dynamiques en utilisant des algorithmes de clustering pour cibler précisément les foyers infectieux, tout en conservant une approche réaliste.
+-*Visualisation en temps réel* : Créer une visualisation dynamique qui soit à la fois performante et informative, en Python et JavaScript.
+-*Gestion des états d’urgence*: Développement d’un système intelligent de contrôle d’urgence activant ou désactivant des stratégies en fonction de seuils prédéfinis.
+
+#### *Perspectives* <br>
+
+Ce projet pourrait être étendu pour intégrer des données réelles provenant d’épidémies passées ou actuelles, afin d'affiner les simulations. De plus, l’application web pourrait évoluer vers un outil d’aide à la décision pour les autorités sanitaires, permettant d’adapter les mesures de gestion d’une épidémie en fonction de sa propagation en temps réel. <br>
+
+#### *Liens vers les démonstrations*
+
+[Simulation avec visualisation des agents](https://youtu.be/a1_w10Rs6ck)
+[Simulation sans visualisation des agents](https://youtu.be/RjGjI-VZxbo)
 
 
 <p align="center">
