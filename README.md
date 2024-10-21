@@ -1,4 +1,4 @@
-<p align="center">
+![image](https://github.com/user-attachments/assets/e6067401-4aa7-4971-800f-339d8745e5c8)<p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=75,75,15&height=105&section=header"/>
 </p>
 
@@ -156,7 +156,8 @@ Ce projet a le potentiel d'être adapté et intégré dans les processus de prod
 
 ## ***SIMULATION MULTI-AGENTS DE STRATÉGIES DE GESTION DE LA PROPAGATION DES ÉPIDÉMIES***
 
-[Visualisation d'une simulation mutlti-agent avec une stratégie de gestion de cette épidémie en temps réel](https://youtu.be/a1_w10Rs6ck)
+[Application-web-avec-visualisation-de-la-SMA](https://youtu.be/a1_w10Rs6ck)
+[Application-web-sans-visualisation-de-la-SMA](https://youtu.be/RjGjI-VZxbo)
 
 
 <p align="center">
