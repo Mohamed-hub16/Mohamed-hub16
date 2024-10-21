@@ -50,6 +50,10 @@ Je suis actuellement étudiant en **3ème année de BUT Informatique**. Depuis m
       <p>
         <img width="188px"  src="https://skillicons.dev/icons?i=git,github,gitlab&perline=13" alt="skillset"/>
       </p>
+      <h4><i>Gestion de Projet</i></h4>
+      <p>
+        <img width="188px"  src="https://skillicons.dev/icons?i=figma,figma, figma&perline=13" alt="skillset"/>
+      </p>
     </td>
   </tr>
 </table>
