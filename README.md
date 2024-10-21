@@ -218,6 +218,9 @@ Ce projet pourrait être étendu pour intégrer des données réelles provenant 
 [Simulation avec visualisation des agents](https://youtu.be/a1_w10Rs6ck)
 [Simulation sans visualisation des agents](https://youtu.be/RjGjI-VZxbo)
 
+# 📊 ***Statistiques GitHub***
+![Statistiques GitHub de Mohamed](https://github-readme-stats.vercel.app/api?username=Mohamed-hub16&show_icons=true&theme=radical)
+
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=75,75,15&height=105&section=footer"/>
