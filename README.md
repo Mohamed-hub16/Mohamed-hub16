@@ -156,8 +156,9 @@ Ce projet a le potentiel d'être adapté et intégré dans les processus de prod
 
 ## ***SIMULATION MULTI-AGENTS DE STRATÉGIES DE GESTION DE LA PROPAGATION DES ÉPIDÉMIES***
 
-![Visualisation](ABMS_2.gif)
+
 ![Application Web](ABMS_1.gif)
+![Visualisation](ABMS_2.gif)
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=75,75,15&height=105&section=footer"/>
