@@ -221,6 +221,10 @@ Ce projet pourrait être étendu pour intégrer des données réelles provenant 
 # 📊 ***Statistiques GitHub***
 ![Statistiques GitHub de Mohamed](https://github-readme-stats.vercel.app/api?username=Mohamed-hub16&show_icons=true&theme=radical)
 
+# 🌟 ***Compétences en Soft Skills***
+- **Travail d'équipe** : Capacité à collaborer efficacement au sein d'une équipe.
+- **Résolution de problèmes** : Aptitude à identifier et résoudre des problèmes techniques complexes.
+- **Adaptabilité** : Capacité à m'adapter rapidement aux nouveaux environnements de travail et technologies.
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=75,75,15&height=105&section=footer"/>
