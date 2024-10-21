@@ -165,8 +165,9 @@ Le projet s'inscrit dans un contexte de recherche scientifique sur la modélisat
 #### *Fonctionnalités Clés* <br>
 
 -*Modélisation multi-agents basée sur le modèle SIR* (Susceptible, Infecté, Retiré) pour simuler la propagation des infections dans un environnement continu. <br>
+
+-*Stratégies de gestion de crise* :
 <ul>
-  Stratégies de gestion de crise :
   <li>Quarantaine et confinement à travers la limitation des déplacements. <br></li>
   <li>Création de zones statiques et dynamiques pour cibler les foyers d'infection. <br></li>
   <li>Port du masque avec différentes configurations (port généralisé ou ciblé dans des zones). <br></li>
