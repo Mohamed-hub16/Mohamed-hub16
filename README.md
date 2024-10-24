@@ -235,6 +235,7 @@ Je suis actif sur TryHackMe, une plateforme d'apprentissage pratique en cybersé
 Si vous souhaitez me contacter pour discuter d'une opportunité professionnelle, collaborer sur un projet, ou simplement échanger des idées, n'hésitez pas à me joindre par l'un des moyens suivants :
 
 [![Gmail](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mesrimohamed16@gmail.com)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:mohamed.mesri@etu.unilim.fr)
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=75,75,15&height=105&section=footer"/>
