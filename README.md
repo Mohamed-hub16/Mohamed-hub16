@@ -9,7 +9,7 @@
 Je suis actuellement étudiant en **3ème année de BUT Informatique**. Depuis mes débuts dans le domaine, ma passion pour l'informatique n'a cessé de croître. Je suis particulièrement fasciné par les avancées technologiques, et c'est dans le secteur de la **cybersécurité** que je souhaite approfondir mes connaissances et construire ma carrière. Mon objectif est de devenir un **expert** dans ce domaine dynamique et en constante évolution.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-mesri-63a16725a)
-[![MonSiteWeb](https://img.shields.io/badge/mon%20site%20web-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://mohamedmesri.netlify.app)
+[![MonSiteWeb](https://img.shields.io/badge/mon%20site%20web-F4953D?style=for-the-badge&logo=""&logoColor=white)](https://mohamedmesri.netlify.app)
 
 # 💻 ***Languages et outils utilisés***
 
@@ -229,6 +229,12 @@ Je suis actif sur TryHackMe, une plateforme d'apprentissage pratique en cybersé
 - **Travail d'équipe** : Capacité à collaborer efficacement au sein d'une équipe.
 - **Résolution de problèmes** : Aptitude à identifier et résoudre des problèmes techniques complexes.
 - **Adaptabilité** : Capacité à m'adapter rapidement aux nouveaux environnements de travail et technologies.
+
+# 📬 ***Me Contacter***
+
+Si vous souhaitez me contacter pour discuter d'une opportunité professionnelle, collaborer sur un projet, ou simplement échanger des idées, n'hésitez pas à me joindre par l'un des moyens suivants :
+
+[![Gmail](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/mohamed-mesri-63a16725a)(mailto:mesrimohamed16@gmail.com)
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=75,75,15&height=105&section=footer"/>
