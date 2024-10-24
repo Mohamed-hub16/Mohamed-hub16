@@ -67,13 +67,13 @@ Je suis actuellement étudiant en **3ème année de BUT Informatique**. Depuis m
 <br>
 Le jeu du Verger est une adaptation numérique du célèbre jeu de société coopératif pour enfants, développée en Java avec JavaFX. Cette version interactive conserve l'essence du jeu original tout en offrant une expérience ludique sur plateforme digitale.<br>
 
-#### *Caractéristiques principales* <br>
+### *Caractéristiques principales* <br>
 *Joueur* : 1 à 3 joueurs <br>
 *Objectif* : Récolter tous les fruits avant que le corbeau ne complète son puzzle <br>
 *Langages* : Java, JavaFX <br>
 *Type* : Jeu de société coopératif <br>
 
-#### *Gameplay*
+### *Gameplay*
 <br>
 <img  class="image" src="image.png" alt="Logo" width="100%"/>
 Les joueurs collaborent pour récolter les fruits de quatre arbres différents (pommier, cerisier, prunier, poirier) et remplir leurs paniers avant que le corbeau n'achève son puzzle. À chaque tour, les joueurs lancent un dé qui détermine leur action : 
@@ -82,13 +82,13 @@ Les joueurs collaborent pour récolter les fruits de quatre arbres différents (
 *Panier* : Choisir et récolter deux fruits de n'importe quel arbre <br>
 *Corbeau* : Ajouter une pièce au puzzle du corbeau <br>
 
-#### *Défis techniques*
+### *Défis techniques*
 
 Implémentation d'une interface utilisateur intuitive avec JavaFX
 Gestion des règles du jeu et de la logique de tour par tour
 Création d'un système de jeu coopératif fluide
 
-#### *Compétences démontrées*
+### *Compétences démontrées*
 
 Programmation orientée objet en Java
 Développement d'interfaces graphiques avec JavaFX
@@ -103,7 +103,7 @@ Ce projet démontre ma capacité à transformer un jeu de société classique en
 
 Ce projet a été réalisé dans le cadre d'une SAE (Situation d'Apprentissage et d'Évaluation) pour l'entreprise Legrand, leader mondial des infrastructures électriques et numériques du bâtiment. L'objectif était de développer une application web permettant de visualiser et d'analyser les données de production, notamment celles liées au processus de moulage par injection plastique.
 
-#### *Confidentialité des Données*
+### *Confidentialité des Données*
 <img  class="image" src="legrand.png" alt="Logo" width="100%" />
   
 *Note : L'image ci-dessus présente l'interface de l'application avec certaines valeurs floutées pour des raisons de confidentialité.* <br>
@@ -117,7 +117,7 @@ Ce projet a été réalisé en collaboration avec Legrand, une entreprise leader
 
 Cette approche reflète notre engagement envers la sécurité des données et le respect des accords de confidentialité, tout en permettant de présenter le design et les fonctionnalités de l'application développée.
 
-#### *Fonctionnalités Principales* <br>
+### *Fonctionnalités Principales* <br>
 - Visualisation des données de production en temps réel <br>
 - Analyse des taux de recyclage des matières plastiques <br>
 - Vérification des gammes de moulages <br>
@@ -125,7 +125,7 @@ Cette approche reflète notre engagement envers la sécurité des données et le
 - Filtrage des données par site, CDA (Centre d'Analyse) et groupe de machines <br>
 - Export des données au format CSV <br>
 
-#### *Technologies Utilisées* <br>
+### *Technologies Utilisées* <br>
 - Frontend : React.js <br>
 - Backend : Node.js <br>
 - Base de données : SQL Server (gérée via Azure Data Studio) <br>
@@ -133,12 +133,12 @@ Cette approche reflète notre engagement envers la sécurité des données et le
 - Gestion de versions : Git <br>
 - Tests : Jest (97% de couverture) <br>
 
-#### *Méthodologie*
+### *Méthodologie*
 - Conception UX/UI avec Figma
 - Gestion de projet agile avec Trello
 - Développement itératif avec feedback régulier du client
 
-#### *Compétences Développées*
+### *Compétences Développées*
 - Travail en équipe sur un projet d'envergure
 - Apprentissage autonome de nouvelles technologies (React, SASS)
 - Conception d'interfaces utilisateur ergonomiques
@@ -146,27 +146,27 @@ Cette approche reflète notre engagement envers la sécurité des données et le
 - Connexion et manipulation de bases de données
 - Mise en place de tests unitaires
 
-#### *Challenges Relevés*
+### *Challenges Relevés*
 - Adaptation aux exigences d'une grande entreprise
 - Gestion de données complexes et volumineuses
 - Conception d'une interface utilisateur intuitive pour des données techniques
 - Collaboration efficace au sein d'une équipe de 5 développeurs
 
-#### *Perspectives*
+### *Perspectives*
 Ce projet a le potentiel d'être adapté et intégré dans les processus de production de Legrand, offrant ainsi une solution concrète pour l'optimisation de la gestion des ressources et l'amélioration de l'efficacité de la production.
 
 ## ***SIMULATION MULTI-AGENTS DE STRATÉGIES DE GESTION DE LA PROPAGATION DES ÉPIDÉMIES***
 
 Ce projet a été réalisé dans le cadre d'un stage de recherche à l'Université de Craiova en collaboration avec le professeur Costin Bădică, expert en intelligence artificielle et systèmes multi-agents. L'objectif était de concevoir et de simuler diverses stratégies de gestion des épidémies à travers un modèle multi-agents (ABMS), en étudiant notamment l'impact de différentes mesures de contrôle (confinement, port du masque, etc.) sur la propagation d'une maladie infectieuse. <br>
 
-#### *Contexte et Objectifs* <br>
+### *Contexte et Objectifs* <br>
 
 Le projet s'inscrit dans un contexte de recherche scientifique sur la modélisation des épidémies, notamment face à des crises sanitaires récentes telles que le COVID-19. Le principal objectif était d’évaluer l’efficacité des stratégies de gestion pour limiter la propagation d’une épidémie tout en préservant autant que possible les libertés individuelles. <br>
 
 <img  class="image" src="ABMS-1.png" alt="Logo" width="100%" /><img  class="image" src="ABMS-2.png" alt="Logo" width="33%" /><img  class="image" src="ABMS-3.png" alt="Logo" width="33%" /><img  class="image" src="ABMS-4.png" alt="Logo" width="33%" />
 
 *Note : Les images ci-dessus présente l'interface de l'application web* <br>
-#### *Fonctionnalités Clés* <br>
+### *Fonctionnalités Clés* <br>
 
 -*Modélisation multi-agents basée sur le modèle SIR* (Susceptible, Infecté, Retiré) pour simuler la propagation des infections dans un environnement continu. <br>
 
@@ -180,7 +180,7 @@ Le projet s'inscrit dans un contexte de recherche scientifique sur la modélisat
 -*Analyse des résultats* avec des graphiques dynamiques montrant l'évolution de l'épidémie et l'impact des stratégies. <br>
 -*Application web interactive* permettant la personnalisation des paramètres de simulation et l’observation en temps réel. <br>
 
-#### *Technologies Utilisées* <br>
+### *Technologies Utilisées* <br>
 
 -*MESA* (Framework en Python pour la modélisation multi-agents) <br>
 -*Streamlit* (pour l'interface web interactive) <br>
@@ -188,13 +188,13 @@ Le projet s'inscrit dans un contexte de recherche scientifique sur la modélisat
 -*JavaScript* (pour la visualisation des agents en temps réel) <br>
 -*Git* (pour la gestion de versions) <br>
 
-#### *Méthodologie* <br>
+### *Méthodologie* <br>
 
 -Approche itérative avec des ajustements réguliers suite aux résultats des simulations. <br>
 -Développement de la visualisation des agents en Python et JavaScript. <br>
 -Utilisation d'un algorithme de clustering pour les zones dynamiques, afin de cibler de manière précise les foyers d'infection et optimiser les mesures de contrôle. <br>
 
-#### *Compétences Développées* <br>
+### *Compétences Développées* <br>
 
 -*Modélisation et simulation multi-agents* : Compréhension et mise en place du modèle SIR en utilisant le framework MESA. <br>
 -*Développement d'interfaces web interactives* : Utilisation de Streamlit pour intégrer une visualisation intuitive en temps réel des simulations. <br>
@@ -203,18 +203,18 @@ Le projet s'inscrit dans un contexte de recherche scientifique sur la modélisat
 -*Visualisation* dynamique en temps réel avec des technologies web. <br>
 -*Communication scientifique* : Présentation des résultats et des analyses lors de réunions régulières avec mon maître de stage et d'autres chercheurs. <br>
 
-#### *Challenges Relevés* <br>
+### *Challenges Relevés* <br>
 
 -*Optimisation des performances* : La gestion d'une grande quantité d'agents (jusqu'à 15 000) a nécessité une optimisation du code pour garantir des simulations fluides. <br>
 -*Adaptation du modèle* : Intégrer des zones dynamiques en utilisant des algorithmes de clustering pour cibler précisément les foyers infectieux, tout en conservant une approche réaliste. <br> 
 -*Visualisation en temps réel* : Créer une visualisation dynamique qui soit à la fois performante et informative, en Python et JavaScript. <br>
 -*Gestion des états d’urgence*: Développement d’un système intelligent de contrôle d’urgence activant ou désactivant des stratégies en fonction de seuils prédéfinis. <br>
 
-#### *Perspectives* <br>
+### *Perspectives* <br>
 
 Ce projet pourrait être étendu pour intégrer des données réelles provenant d’épidémies passées ou actuelles, afin d'affiner les simulations. De plus, l’application web pourrait évoluer vers un outil d’aide à la décision pour les autorités sanitaires, permettant d’adapter les mesures de gestion d’une épidémie en fonction de sa propagation en temps réel. <br>
 
-#### *Liens vers les démonstrations*
+### *Liens vers les démonstrations*
 
 [Simulation avec visualisation des agents](https://youtu.be/a1_w10Rs6ck)
 [Simulation sans visualisation des agents](https://youtu.be/RjGjI-VZxbo)
