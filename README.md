@@ -223,7 +223,7 @@ Ce projet pourrait être étendu pour intégrer des données réelles provenant 
 
 En tant qu'étudiant en informatique passionné par la cybersécurité, je consacre une partie de mon temps à développer mes compétences dans ce domaine. Mon objectif est de devenir un expert en cybersécurité, en commençant par les bases et en progressant vers des certifications et projets avancés. <br>
 
-Je suis actif sur TryHackMe, une plateforme d'apprentissage pratique en cybersécurité où je m'entraîne sur des machines virtuelles pour renforcer mes compétences. Vous pouvez suivre mes progrès ici :
+Je suis actif sur TryHackMe, une plateforme d'apprentissage pratique en cybersécurité où je m'entraîne sur des machines virtuelles pour renforcer mes compétences. Vous pouvez suivre mes progrès [ici](https://tryhackme.com/r/p/Mohamed1687).
 
 # 🌟 ***Compétences en Soft Skills***
 - **Travail d'équipe** : Capacité à collaborer efficacement au sein d'une équipe.
