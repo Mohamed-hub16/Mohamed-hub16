@@ -219,6 +219,9 @@ Ce projet pourrait être étendu pour intégrer des données réelles provenant 
 [Simulation avec visualisation des agents](https://youtu.be/a1_w10Rs6ck)
 [Simulation sans visualisation des agents](https://youtu.be/RjGjI-VZxbo)
 
+### *Rapport de stage*
+[📄 Téléchargez le rapport de stage](MESRI_Mohamed_Rapport_Stage_2024.pdf)
+
 # 🔐 ***Cybersécurité : Initiation et Objectifs***
 
 En tant qu'étudiant en informatique passionné par la cybersécurité, je consacre une partie de mon temps à développer mes compétences dans ce domaine. Mon objectif est de devenir un expert en cybersécurité, en commençant par les bases et en progressant vers des certifications et projets avancés. <br>
